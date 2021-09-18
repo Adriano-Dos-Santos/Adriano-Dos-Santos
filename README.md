@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Adriano-Dos-Santos
-- 👀 I’m interested in science, math and programming, i also like cats
-- 🌱 I’m currently learning programming logic 
+<h1 align="center">Hi 👋, I'm Adriano Dos Santos</h1>
+<h3 align="center">A passionate frontend developer student from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriano-dos-santos&label=Profile%20views&color=0e75b6&style=flat" alt="adriano-dos-santos" /> </p>
+
+- 🤝 I’m looking for help with **HTML**
+
+- 📫 How to reach me **adsc999@gmail.com**
+
+- ⚡ Fun fact **I can't stand a minute without music**
 
 
-<!---
-Adriano-Dos-Santos/Adriano-Dos-Santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriano-dos-santos&show_icons=true&locale=en&layout=compact" alt="adriano-dos-santos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriano-dos-santos&show_icons=true&locale=en" alt="adriano-dos-santos" /></p>
