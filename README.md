@@ -7,7 +7,3 @@
 - 🌱 No momento estou estudando HTML e Lógica de programação
 
 - ⚡ Fun fact **I can't stand a minute without music**
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriano)](https://github.com/anuraghazra/github-readme-stats)
- 
