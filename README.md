@@ -9,5 +9,5 @@
 - ⚡ Fun fact **I can't stand a minute without music**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano dos santos=compact)](https://github.com/Adriano-Dos-Santos/Adriano-Dos-Santos/edit/main/README.md)
  
