@@ -4,6 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriano-dos-santos&label=Profile%20views&color=0e75b6&style=flat" alt="adriano-dos-santos" /> </p>
 
 
-- 🌱 No momento estou estudando HTML e Lógica de programação
+- 🌱 No momento estou estudando Lógica de programação e aplicação em C, C++, C#, java, Python
 
-- ⚡ Fun fact **I can't stand a minute without music**
+- ⚡ Fun fact **Não posso passar muito tempo sem escutar uma música que já sinto os sintomas da dependência**
