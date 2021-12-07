@@ -3,6 +3,6 @@
 
 
 
-- 🌱 No momento estou estudando Lógica de programação e aplicação em C, C++, C#, java, Python
+- 🌱 No momento estou estudando Lógica de programação e sua aplicação em C, C++
 
 - ⚡ Fun fact **Não posso passar muito tempo sem escutar uma música que já sinto os sintomas da dependência**
