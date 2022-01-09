@@ -3,6 +3,6 @@
 
 
 
-- 🌱 No momento estou estudando Lógica de programação e sua aplicação em C, C++
+- 🌱 No momento estou estudando HTML e CSS
 
 - ⚡ Fun fact **Não posso passar muito tempo sem escutar uma música que já sinto os sintomas da dependência**
