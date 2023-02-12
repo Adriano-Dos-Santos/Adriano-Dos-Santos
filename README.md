@@ -6,7 +6,6 @@
 
 ###
 
-<img align="right" height="251" src="assets/100%.png"/>
 
 ###
 
@@ -28,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&username=Adriano-Dos-Santos" height="150" alt="languages graph"  />
 </div>
 
+###
+<img align="right" height="251" src="assets/100%.png"/>
 ###
 
 <h2 align="left">Contact</h2>
