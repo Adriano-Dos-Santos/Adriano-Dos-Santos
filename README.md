@@ -5,6 +5,7 @@
 <p align="left">I have embarked upon a new quest: to become a front-end developer. My objective is to master the art of programming, to hone my skills and to gain knowledge beyond measure. I seek to become a true professional, capable of creating wondrous and magnificent things.</p>
 
 ###
+<img align="right" height="251" src="https://github.com/Adriano-Dos-Santos/Adriano-Dos-Santos/blob/main/assets/100%25.png?raw=true">
 
 
 ###
@@ -27,9 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&username=Adriano-Dos-Santos" height="150" alt="languages graph"  />
 </div>
 
-###
-![alt text](assets/100$.png)
-<img align="center" height="251" src="assets/100%.png"/>
 ###
 
 <h2 align="left">Contact</h2>
