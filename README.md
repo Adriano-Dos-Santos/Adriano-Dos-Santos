@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="251" src="assets/100%.png"  />
+<img align="right" height="251" src="assets/100%.png"/>
 
 ###
 
