@@ -28,6 +28,7 @@
 </div>
 
 ###
+![alt text](assets/100$.png)
 <img align="center" height="251" src="assets/100%.png"/>
 ###
 
