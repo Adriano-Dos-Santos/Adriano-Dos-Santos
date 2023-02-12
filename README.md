@@ -28,7 +28,7 @@
 </div>
 
 ###
-<img align="right" height="251" src="assets/100%.png"/>
+<img align="center" height="251" src="assets/100%.png"/>
 ###
 
 <h2 align="left">Contact</h2>
