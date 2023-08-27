@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, fellow adventurer</h1>
+<h1 align="center">Greetings, Friends</h1>
 
 ###
 
