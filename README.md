@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have embarked upon a new quest: to become a front-end developer. My objective is to master the art of programming, to hone my skills and to gain knowledge beyond measure. I seek to become a true professional, capable of creating wondrous and magnificent things.</p>
+<p align="left">I have embarked upon a new quest: to be capable of creating wondrous and magnificent things.</p>
 
 ###
 <img align="right" height="251" src="https://github.com/Adriano-Dos-Santos/Adriano-Dos-Santos/blob/main/assets/100%25.png?raw=true">
